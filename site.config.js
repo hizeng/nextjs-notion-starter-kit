@@ -8,8 +8,8 @@ module.exports = {
 
   // basic site info (required)
   name: '临时又有任务',
-  domain: 'https://cottony-cellar-d5e.notion.site/0d646bf941aa4d7f8f8f0959baa31a6d,
-  author: 'hizeng',
+  domain: 'https://cottony-cellar-d5e.notion.site/0d646bf941aa4d7f8f8f0959baa31a6d',
+  author: '',
 
   // open graph metadata (optional)
   description: '时间有限 看完马上离开',
@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   twitter: '',
-  github: 'hizeng',
+  github: '',
   linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
