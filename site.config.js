@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: '临时又有任务',
+  domain: 'https://cottony-cellar-d5e.notion.site/0d646bf941aa4d7f8f8f0959baa31a6d,
+  author: 'hizeng',
 
   // open graph metadata (optional)
   description: '时间有限 看完马上离开',
