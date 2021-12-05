@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '临时又有任务',
-  domain: 'hizeng.info',
+  domain: 'www.hizeng.info',
   author: 'hizeng',
 
   // open graph metadata (optional)
